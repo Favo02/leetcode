@@ -16,3 +16,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras accumsan euismod e
 ```
 print("Hello world")
 ```
+
+## Other ideas:
+
+- Stupid idea1
+- Stupid idea2
+  - problem: Lorem ipsum dolor sit amet
