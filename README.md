@@ -18,3 +18,4 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#1048 Longest String Chain](https://leetcode.com/problems/longest-string-chain/solutions/4080416/python3-1048-solution-1018-ms-31-21-17-mb-77-76/)
 - [#799 Champagne Tower](https://leetcode.com/problems/champagne-tower/solutions/4085231/python3-799-solution-69-ms-97-66-16-mb-90-79/)
 - [#880 Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/solutions/4105170/python3-880-solution-34-ms-76-81-16-mb-92-66/)
+- [#2366 Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/solutions/4116578/python3-2366-solution-502-ms-22-97-28-mb-75-13/)
