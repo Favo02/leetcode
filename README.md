@@ -19,3 +19,4 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#799 Champagne Tower](https://leetcode.com/problems/champagne-tower/solutions/4085231/python3-799-solution-69-ms-97-66-16-mb-90-79/)
 - [#880 Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/solutions/4105170/python3-880-solution-34-ms-76-81-16-mb-92-66/)
 - [#2366 Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/solutions/4116578/python3-2366-solution-502-ms-22-97-28-mb-75-13/)
+- [#2038 Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solutions/4120446/python3-2038-solution-196-ms-62-83-17-mb-65-73/)
