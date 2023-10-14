@@ -22,6 +22,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#2038 Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/solutions/4120446/python3-2038-solution-196-ms-62-83-17-mb-65-73/)
 - [#1326 Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/solutions/4130908/python3-1326-solution-122-ms-74-71-18-mb-21-84/)
 - [#2899 Last Visited Integers](https://leetcode.com/problems/last-visited-integers/solutions/4168327/python3-2899-solution-52-ms-16-mb/)
+- [#2900 Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/solutions/4168375/python3-2900-solution-58-ms-16-mb/)
 
 ### Contests
 
