@@ -32,7 +32,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 
 #### [Biweekly Contest 114](https://leetcode.com/contest/biweekly-contest-114/)
 
-**Rank:** `8430 / 25829`, **Score:** `7`, **Finish time:** `0:37:39`\
+**Rank:** `7260 / 25829`, **Score:** `7`, **Finish time:** `0:37:39`\
 _Question 1:_ [description](https://leetcode.com/problems/minimum-operations-to-collect-elements/) - [solution](./solved/2869.MinimumOperationsToCollectElements.py) - time: **0:07:56**\
 _Question 2:_ [description](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) - [solution](./solved/2870.MinimumNumberOfOperationsToMakeArrayEmpty.py) - time: **0:27:39** _(2x penalties)_\
 _Question 3:_ [description](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) - _not solved in time_\
@@ -40,7 +40,7 @@ _Question 4:_ [description](https://leetcode.com/problems/maximum-number-of-k-di
 
 #### [Biweekly Contest 115](https://leetcode.com/contest/biweekly-contest-115/)
 
-**Rank:** `3016 / 21961`, **Score:** `12`, **Finish time:** `1:47:04`\
+**Rank:** `3774 / 24770`, **Score:** `12`, **Finish time:** `1:47:04`\
 _Question 1:_ [description](https://leetcode.com/problems/last-visited-integers/) - [solution](./solved/2899.LastVisitedIntegers.py) - time: **0:13:00** _(1x penalties)_\
 _Question 2:_ [description](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) - [solution](./solved/2900.LongestUnequalAdjacentGroupsSubsequenceI.py) - time: **0:19:01**\
 _Question 3:_ [description](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) - [solution](./solved/2901.LongestUnequalAdjacentGroupsSubsequenceII.cpp) - time: **1:27:04** _(3x penalties)_\
