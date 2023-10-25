@@ -24,6 +24,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#2899 Last Visited Integers](https://leetcode.com/problems/last-visited-integers/solutions/4168327/python3-2899-solution-52-ms-16-mb/)
 - [#2900 Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/solutions/4168375/python3-2900-solution-58-ms-16-mb/)
 - [#2050 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/solutions/4181923/python3-2050-solution-1414-ms-80-59-85-mb-19-12/)
+- [#779 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/solutions/4208833/python3-779-solution-29-ms-95-37-16-mb-97-30/) _(my favourite solution!)_
 
 ### Contests
 
