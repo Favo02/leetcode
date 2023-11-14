@@ -8,7 +8,7 @@ class Solution:
       if let not in s: continue
 
       first = s.index(let)
-      last = len(s)-1 - list(reversed(s)).index(let)
+      last = s.rindex(let)
 
       if first == last: continue
 
