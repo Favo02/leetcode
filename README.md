@@ -26,6 +26,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#2050 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/solutions/4181923/python3-2050-solution-1414-ms-80-59-85-mb-19-12/)
 - [#779 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/solutions/4208833/python3-779-solution-29-ms-95-37-16-mb-97-30/) _(my favourite solution!)_
 - [#1503 Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/solutions/4249939/python3-1503-solution-137-ms-97-16-17-mb-89-36/)
+- [#1838 Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/4303121/python3-1838-solution-1117-ms-84-58-30-mb-97-21/)
 
 ### Contests
 
