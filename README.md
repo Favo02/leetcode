@@ -29,7 +29,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#1838 Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/4303121/python3-1838-solution-1117-ms-84-58-30-mb-97-21/)
 - [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/4333393/python3-84-solution-951-ms-6-95-29-mb-89-17/)
 - [#935 Knight Dialer](https://leetcode.com/problems/knight-dialer/solutions/4335726/python3-935-solution-570-ms-82-81-16-mb-81-60/)
-- [#1611 Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/solutions/4348108/python3-1611-solution-29-ms-98-75-16-mb-26-88/)
+- [#1611 Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/solutions/4348108/python3-1611-solution-29-ms-98-75-16-mb-26-88/) _(also proud of this one!)_
 
 ### Contests
 
