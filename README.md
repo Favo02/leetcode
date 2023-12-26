@@ -31,6 +31,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#935 Knight Dialer](https://leetcode.com/problems/knight-dialer/solutions/4335726/python3-935-solution-570-ms-82-81-16-mb-81-60/)
 - [#1611 Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/solutions/4348108/python3-1611-solution-29-ms-98-75-16-mb-26-88/) _(also proud of this one!)_
 - [#91 Decode Ways](https://leetcode.com/problems/decode-ways/solutions/4458511/python3-91-solution-25-ms-99-49-18-mb-5-04/)
+- [#1155 Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/solutions/4463077/python3-1155-solution-117-ms-92-87-18-mb-46-29/)
 
 ### Contests
 
