@@ -62,3 +62,11 @@ _Question 1:_ [description](https://leetcode.com/problems/find-common-elements-b
 _Question 2:_ [description](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) - [solution](./solved/2957.RemoveAdjacentAlmost-EqualCharacters.py) - time: **0:39:14** _(3x penalties)_\
 _Question 3:_ [description](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) - [solution](./solved/2958.LengthOfLongestSubarrayWithAtMostKFrequency.py) - time: **0:17:19**\
 _Question 4:_ [description](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) - _not solved in time_
+
+#### [Biweekly Contest 122](https://leetcode.com/contest/biweekly-contest-122/)
+
+**Rank:** `?? / ??`, **Score:** `7`, **Finish time:** `0:52:22`\
+_Question 1:_ [description](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) - [solution](./solved/3010.DivideAnArrayIntoSubarraysWithMinimumCostI.py) - time: **0:37:22** _(3x penalties)_\
+_Question 2:_ [description](https://leetcode.com/problems/find-if-array-can-be-sorted/) - [solution](./solved/3011.FindIfArrayCanBeSorted.py) - time: **0:13:03**\
+_Question 3:_ [description](https://leetcode.com/problems/minimize-length-of-array-using-operations/) - _not solved in time_\
+_Question 4:_ [description](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) - _not solved in time_
