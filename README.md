@@ -65,8 +65,16 @@ _Question 4:_ [description](https://leetcode.com/problems/number-of-possible-set
 
 #### [Biweekly Contest 122](https://leetcode.com/contest/biweekly-contest-122/)
 
-**Rank:** `?? / ??`, **Score:** `7`, **Finish time:** `0:52:22`\
+**Rank:** `9312 / 25687`, **Score:** `7`, **Finish time:** `0:52:22`\
 _Question 1:_ [description](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) - [solution](./solved/3010.DivideAnArrayIntoSubarraysWithMinimumCostI.py) - time: **0:37:22** _(3x penalties)_\
 _Question 2:_ [description](https://leetcode.com/problems/find-if-array-can-be-sorted/) - [solution](./solved/3011.FindIfArrayCanBeSorted.py) - time: **0:13:03**\
 _Question 3:_ [description](https://leetcode.com/problems/minimize-length-of-array-using-operations/) - _not solved in time_\
 _Question 4:_ [description](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) - _not solved in time_
+
+#### [Biweekly Contest 125](https://leetcode.com/contest/biweekly-contest-125/)
+
+**Rank:** `?? / ??`, **Score:** `11`, **Finish time:** `1:29:23`\
+_Question 1:_ [description](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) - [solution](./solved/3065.MinimumOperationsToExceedThresholdValueI.py) - time: **0:20:44**\
+_Question 2:_ [description](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) - [solution](./solved/3066.MinimumOperationsToExceedThresholdValueII.py) - time: **0:40:39** _(2x penalties)_\
+_Question 3:_ [description](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) - [solution](./solved/3067.CountPairsOfConnectableServersInAWeightedTreeNetwork.py) - time: **1:14:23** _(1x penalties)_\
+_Question 4:_ [description](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) - _not solved in time_
