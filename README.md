@@ -73,7 +73,7 @@ _Question 4:_ [description](https://leetcode.com/problems/divide-an-array-into-s
 
 #### [Biweekly Contest 125](https://leetcode.com/contest/biweekly-contest-125/)
 
-**Rank:** `?? / ??`, **Score:** `11`, **Finish time:** `1:29:23`\
+**Rank:** `3824 / 31946`, **Score:** `11`, **Finish time:** `1:29:23`\
 _Question 1:_ [description](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) - [solution](./solved/3065.MinimumOperationsToExceedThresholdValueI.py) - time: **0:20:44**\
 _Question 2:_ [description](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) - [solution](./solved/3066.MinimumOperationsToExceedThresholdValueII.py) - time: **0:40:39** _(2x penalties)_\
 _Question 3:_ [description](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) - [solution](./solved/3067.CountPairsOfConnectableServersInAWeightedTreeNetwork.py) - time: **1:14:23** _(1x penalties)_\
