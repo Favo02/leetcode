@@ -33,6 +33,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#91 Decode Ways](https://leetcode.com/problems/decode-ways/solutions/4458511/python3-91-solution-25-ms-99-49-18-mb-5-04/)
 - [#1155 Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/solutions/4463077/python3-1155-solution-117-ms-92-87-18-mb-46-29/)
 - [#1531 String Compression II](https://leetcode.com/problems/string-compression-ii/solutions/4472300/python3-1531-solution-1338-ms-95-00-28-mb-91-00/)
+- [#930 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/4875199/python3-930-solution-217-ms-74-94-17-79-mb-77-40/)
 
 ### Contests
 
