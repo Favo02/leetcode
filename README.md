@@ -6,7 +6,7 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions.
 
 **My LeetCode profile**: [Favo02](https://leetcode.com/Favo02/)
 
-### Explanations
+## Explanations
 
 When I have some spare time and the problem is noteworthy, I write down simple **explanations** for my solutions. Here is the **list** because LeetCode doesn't provide a full one.
 
@@ -36,10 +36,105 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#930 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/4875199/python3-930-solution-217-ms-74-94-17-79-mb-77-40/)
 - [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/solutions/4883268/golang-525-solution-83-ms-68-22-7-02-mb-100-00/)
 
-### Contests
+## Contests
 
 > Penalty time: 5 minutes for each wrong submission.\
 > Finish time: time of the last solved problem plus penalty time.
+
+<details>
+  <summary>
+    <b>Biweekly Contest 114</b>
+  </summary>
+
+  - [Biweekly Contest 114](https://leetcode.com/contest/biweekly-contest-114/)
+  - Final standing: **7260<sup>th</sup> / 25829**
+  - Score: **7**, Finish time: **0:37:39**
+  - Rating change: **+21** _(now 1521)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | ✅ 0:07:56 | [2869.MinimumOperationsToCollectElements.py](./solved/2869.MinimumOperationsToCollectElements.py) |
+  | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | ✅ 0:27:39  _(-2 penalties)_ | [2870.MinimumNumberOfOperationsToMakeArrayEmpty.py](./solved/2870.MinimumNumberOfOperationsToMakeArrayEmpty.py) |
+  | [Split Array into Maximum Number of Subarrays](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | ❌ | - |
+  | [Maximum Number of K Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | ❌ | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 115</b>
+  </summary>
+
+  - [Biweekly Contest 115](https://leetcode.com/contest/biweekly-contest-115/)
+  - Final standing: **3774<sup>th</sup> / 24770**
+  - Score: **12**, Finish time: **1:47:04**
+  - Rating change: **+68** _(now 1589)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/) | ✅ 0:13:00 _(-1 penalties)_ | [2899.LastVisitedIntegers.py](./solved/2899.LastVisitedIntegers.py) |
+  | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | ✅ 0:19:01 | [2900.LongestUnequalAdjacentGroupsSubsequenceI.py](./solved/2900.LongestUnequalAdjacentGroupsSubsequenceI.py) |
+  | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | ✅ 1:27:04 _(3x penalties)_ | [2901.LongestUnequalAdjacentGroupsSubsequenceII.cpp](./solved/2901.LongestUnequalAdjacentGroupsSubsequenceII.cpp) |
+  | [Count of Sub Multisets with Bounded Sum](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/) | ❌ | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 119</b>
+  </summary>
+
+  - [Biweekly Contest 119](https://leetcode.com/contest/biweekly-contest-119/)
+  - Final standing: **4998<sup>th</sup> / 20179**
+  - Score: **12**, Finish time: **0:54:14**
+  - Rating change: **+21** _(now 1610)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | ✅ 0:02:01 | [2956.FindCommonElementsBetweenTwoArrays.py](./solved/2956.FindCommonElementsBetweenTwoArrays.py) |
+  | [Remove Adjacent Almost-Equal Characters](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | ✅ 0:39:14 _(3x penalties)_ | [2957.RemoveAdjacentAlmost-EqualCharacters.py](./solved/2957.RemoveAdjacentAlmost-EqualCharacters.py) |
+  | [Length of Longest Subarray with at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | ✅ 0:17:19 | [2958.LengthOfLongestSubarrayWithAtMostKFrequency.py](./solved/2958.LengthOfLongestSubarrayWithAtMostKFrequency.py) |
+  | [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | ❌ | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 122</b>
+  </summary>
+
+  - [Biweekly Contest 122](https://leetcode.com/contest/biweekly-contest-122/)
+  - Final standing: **9312<sup>th</sup> / 25687**
+  - Score: **7**, Finish time: **0:52:22**
+  - Rating change: **-3** _(now 1607)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Divide an Array into Subarrays with Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | ✅ 0:37:22 _(3x penalties)_ | [3010.DivideAnArrayIntoSubarraysWithMinimumCostI.py](./solved/3010.DivideAnArrayIntoSubarraysWithMinimumCostI.py) |
+  | [Find If Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) | ✅ 0:13:03 | [3011.FindIfArrayCanBeSorted.py](./solved/3011.FindIfArrayCanBeSorted.py) |
+  | [Minimize Length of Array Using Operations](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | ❌ | - |
+  | [Divide an Array into Subarrays with Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | ❌ | - |
+
+</details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 125</b>
+  </summary>
+
+  - [Biweekly Contest 125](https://leetcode.com/contest/biweekly-contest-125/)
+  - Final standing: **3824<sup>th</sup> / 31946**
+  - Score: **11**, Finish time: **1:29:23**
+  - Rating change: **+44** _(now 1651)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | ✅ 0:20:44 | [3065.MinimumOperationsToExceedThresholdValueI.py](./solved/3065.MinimumOperationsToExceedThresholdValueI.py) |
+  | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | ✅ 0:40:39 _(2x penalties)_ | [3066.MinimumOperationsToExceedThresholdValueII.py](./solved/3066.MinimumOperationsToExceedThresholdValueII.py) |
+  | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | ✅ 1:14:23 _(1x penalties)_ | [3067.CountPairsOfConnectableServersInAWeightedTreeNetwork.py](./solved/3067.CountPairsOfConnectableServersInAWeightedTreeNetwork.py) |
+  | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | ❌ | - |
+
+</details>
 
 #### [Biweekly Contest 114](https://leetcode.com/contest/biweekly-contest-114/)
 
