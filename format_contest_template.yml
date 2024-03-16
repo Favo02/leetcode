@@ -1,0 +1,34 @@
+contest:
+  name: Biweekly Contest X
+  url: https://leetcode.com/contest/X/
+
+  position: 42
+  partecipants: 4242
+
+  score: 42
+  finish_time: 0:42:42
+
+  rating_change: +42
+  new_rating: 4242
+
+  problems: # solved_time = -1 if not solved
+    - name: Very hard problem
+      url: https://leetcode.com/hard/problem
+      solved_time: 0:42:42
+      penalties: 0
+
+    - name: Very hard problem
+      url: https://leetcode.com/hard/problem
+      solved_time: 0:42:42
+      penalties: 0
+
+    - name: Very hard problem
+      url: https://leetcode.com/hard/problem
+      solved_time: 0:42:42
+      penalties: 0
+
+    - name: Very hard problem
+      url: https://leetcode.com/hard/problem
+      solved_time: 0:42:42
+      penalties: 0
+
