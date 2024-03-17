@@ -35,6 +35,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#1531 String Compression II](https://leetcode.com/problems/string-compression-ii/solutions/4472300/python3-1531-solution-1338-ms-95-00-28-mb-91-00/)
 - [#930 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/4875199/python3-930-solution-217-ms-74-94-17-79-mb-77-40/)
 - [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/solutions/4883268/golang-525-solution-83-ms-68-22-7-02-mb-100-00/)
+- [#847 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solutions/4890253/python3-847-solution-213-ms-33-62-27-49-mb-22-04/)
 
 ## Contests
 
