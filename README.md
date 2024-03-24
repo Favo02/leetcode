@@ -136,3 +136,22 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | ❌ | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 126</b>
+  </summary>
+
+  - [Biweekly Contest 126](https://leetcode.com/contest/biweekly-contest-126/)
+  - Final rank: **1506<sup>th</sup> / 31928**
+  - Score: **12**, Finish time: **0:46:06**
+  - Rating change: **+66** _(now 1718)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | ✅ 0:30:37 | [3079.FindTheSumOfEncryptedIntegers.py](./solved/3079.FindTheSumOfEncryptedIntegers.py) |
+  | [Mark Elements on Array by Performing Queries](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/) | ✅ 0:28:04 | [3080.MarkElementsOnArrayByPerformingQueries.py](./solved/3080.MarkElementsOnArrayByPerformingQueries.py) |
+  | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | ✅ 0:36:06 _(2x penalties)_ | [3081.ReplaceQuestionMarksInStringToMinimizeItsValue.py](./solved/3081.ReplaceQuestionMarksInStringToMinimizeItsValue.py) |
+  | [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | ❌ | - |
+
+</details>
