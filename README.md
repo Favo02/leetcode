@@ -157,3 +157,21 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | ❌ | - |
 
 </details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 127</b>
+  </summary>
+
+  - [Biweekly Contest 127](https://leetcode.com/contest/biweekly-contest-127/)
+  - Final standing: **1324<sup>th</sup> / 27009**
+  - Score: **12**, Finish time: **0:55:38**
+  - Rating change: **+0, unrated for technical problems** _(now 1718)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i) | ✅ 0:09:25  | [3095.ShortestSubarrayWithORAtLeastKI.py](solved/3095.ShortestSubarrayWithORAtLeastKI.py) |
+  | [Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points) | ✅ 0:26:09 _(1x penalties)_ | [3096.MinimumLevelsToGainMorePoints.py](./solved/3096.MinimumLevelsToGainMorePoints.py) |
+  | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | ✅ 0:50:38  | [3097.ShortestSubarrayWithORAtLeastKII.py](solved/3097.ShortestSubarrayWithORAtLeastKII.py) |
+  | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers) | ❌  | - |
+</details>
