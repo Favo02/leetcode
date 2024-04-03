@@ -41,7 +41,7 @@ for p in c["problems"]:
   p_url = p["url"]
   p_is_solved = p["solved_time"] != -1
   p_solved_time = p["solved_time"]
-  p_penalties = f"_({p["penalties"]} penalties)_" if p["penalties"] != 0 else ""
+  p_penalties = f"_({p["penalties"]}x penalties)_" if p["penalties"] != 0 else ""
   p_solution = "-" if not p_is_solved else find(r"^[0-9]{1,4}\." + p_camel_name + r"\.[a-z]*$", "./solved")
   p_file = p_solution.split("/")[-1]
 
