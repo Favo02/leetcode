@@ -38,6 +38,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#847 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solutions/4890253/python3-847-solution-213-ms-33-62-27-49-mb-22-04/)
 - [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/solutions/4933842/golang-713-solution-63-ms-74-40-7-02-mb-80-00/)
 - [#3097 Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/solutions/4948235/python3-3097-solution-1067-ms-100-00-37-93-mb-100-00/)
+- [#2370 Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5072484/bruteforce-to-dynamic-programming-journey/) _(complete thought process: bruteforce to dynamic programing)_
 
 ## Contests
 
