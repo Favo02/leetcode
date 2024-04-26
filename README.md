@@ -39,6 +39,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/solutions/4933842/golang-713-solution-63-ms-74-40-7-02-mb-80-00/)
 - [#3097 Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/solutions/4948235/python3-3097-solution-1067-ms-100-00-37-93-mb-100-00/)
 - [#2370 Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5072484/bruteforce-to-dynamic-programming-journey/) _(complete thought process: bruteforce to dynamic programing)_
+- [#1289 Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/solutions/5075936/minimum-falling-path-sum-ii-dynamic-programming-basic-and-optimized-solutions/) _(complete thought process: basic dynamic programming and optimized solutions)_
 
 ## Contests
 
