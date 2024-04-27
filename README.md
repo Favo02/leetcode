@@ -10,6 +10,14 @@ My [LeetCode](https://leetcode.com/problemset/all/) solutions.
 
 When I have some spare time and the problem is noteworthy, I write down simple **explanations** for my solutions. Here is the **list** because LeetCode doesn't provide a full one.
 
+### Full thought process
+
+- [#2370 Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5072484/bruteforce-to-dynamic-programming-journey/) _(Bruteforce to Dynamic programming journey)_
+- [#1289 Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/solutions/5075936/minimum-falling-path-sum-ii-dynamic-programming-basic-and-optimized-solutions/) _(Dynamic Programming: basic and optimized solutions)_
+- [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/solutions/5079490/freedom-trail-naive-greedy-idea-to-bruteforce-to-memoization-dp/) _(Naive (greedy) idea to Bruteforce to Memoization (DP))_
+
+### Final idea only
+
 - [#1647 Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/solutions/4034903/python-1647-solution-169-ms-70-45-15-mb-15-91/)
 - [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/solutions/4045578/python3-332-solution-80-ms-89-82-17-mb-44-43/)
 - [#1584 Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/solutions/4047087/python3-1584-solution-642-ms-96-86-17-mb-96-12/)
@@ -38,8 +46,6 @@ When I have some spare time and the problem is noteworthy, I write down simple *
 - [#847 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/solutions/4890253/python3-847-solution-213-ms-33-62-27-49-mb-22-04/)
 - [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/solutions/4933842/golang-713-solution-63-ms-74-40-7-02-mb-80-00/)
 - [#3097 Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/solutions/4948235/python3-3097-solution-1067-ms-100-00-37-93-mb-100-00/)
-- [#2370 Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/solutions/5072484/bruteforce-to-dynamic-programming-journey/) _(complete thought process: bruteforce to dynamic programing)_
-- [#1289 Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/solutions/5075936/minimum-falling-path-sum-ii-dynamic-programming-basic-and-optimized-solutions/) _(complete thought process: basic dynamic programming and optimized solutions)_
 
 ## Contests
 
