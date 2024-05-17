@@ -183,3 +183,22 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii) | ✅ 0:50:38  | [3097.ShortestSubarrayWithORAtLeastKII.py](solved/3097.ShortestSubarrayWithORAtLeastKII.py) |
   | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 130</b>
+  </summary>
+
+  - [Biweekly Contest 130](https://leetcode.com/contest/biweekly-contest-130/)
+  - Final standing: **2949<sup>th</sup> / 28019**
+  - Score: **12**, Finish time: **5543**
+  - Rating change: **+33** _(now 1752)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | ✅ 0:36:14  | [3142.CheckIfGridSatisfiesConditions.py](./solved/3142.CheckIfGridSatisfiesConditions.py) |
+  | [Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square) | ✅ 0:13:26 _(1x penalties)_ | [3143.MaximumPointsInsideTheSquare.py](./solved/3143.MaximumPointsInsideTheSquare.py) |
+  | [Minimum Substring Partition of Equal Character Frequency](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency) | ✅ 1:22:23 _(1x penalties)_ | [3144.MinimumSubstringPartitionOfEqualCharacterFrequency.py](./solved/3144.MinimumSubstringPartitionOfEqualCharacterFrequency.py) |
+  | [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array) | ❌  | - |
+</details>
+
