@@ -202,3 +202,21 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array) | ❌  | - |
 </details>
 
+
+<details>
+  <summary>
+    <b>Biweekly Contest 131</b>
+  </summary>
+
+  - [Biweekly Contest 131](https://leetcode.com/contest/biweekly-contest-131/)
+  - Final standing: **1312<sup>th</sup> / 30286**
+  - Score: **12**, Finish time: **0:14:34**
+  - Rating change: **+57** _(now 1809)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | ✅ 0:14:34  | [3158.FindTheXOROfNumbersWhichAppearTwice.py](./solved/3158.FindTheXOROfNumbersWhichAppearTwice.py) |
+  | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | ✅ 0:11:00  | [3159.FindOccurrencesOfAnElementInAnArray.py](./solved/3159.FindOccurrencesOfAnElementInAnArray.py) |
+  | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | ✅ 0:07:17  | [3160.FindTheNumberOfDistinctColorsAmongTheBalls.py](./solved/3160.FindTheNumberOfDistinctColorsAmongTheBalls.py) |
+  | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | ❌  | - |
+</details>
