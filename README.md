@@ -209,7 +209,7 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   </summary>
 
   - [Biweekly Contest 131](https://leetcode.com/contest/biweekly-contest-131/)
-  - Final standing: **1312<sup>th</sup> / 30286**
+  - Final standing: **1312<sup>nd</sup> / 30286**
   - Score: **12**, Finish time: **0:14:34**
   - Rating change: **+57** _(now 1809)_
 
@@ -219,4 +219,22 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | ✅ 0:11:00  | [3159.FindOccurrencesOfAnElementInAnArray.py](./solved/3159.FindOccurrencesOfAnElementInAnArray.py) |
   | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | ✅ 0:07:17  | [3160.FindTheNumberOfDistinctColorsAmongTheBalls.py](./solved/3160.FindTheNumberOfDistinctColorsAmongTheBalls.py) |
   | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | ❌  | - |
+</details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 132</b>
+  </summary>
+
+  - [Biweekly Contest 132](https://leetcode.com/contest/biweekly-contest-132/)
+  - Final standing: **8019<sup>th</sup> / 37070**
+  - Score: **7**, Finish time: **0:29:14**
+  - Rating change: **+0, unrated for technical problems** _(now 1809)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Clear Digits](https://leetcode.com/problems/clear-digits/) | ✅ 0:13:06  | [3174.ClearDigits.py](./solved/3174.ClearDigits.py) |
+  | [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | ✅ 0:19:14 _(2x penalties)_ | [3175.FindTheFirstPlayerToWinKGamesInARow.py](./solved/3175.FindTheFirstPlayerToWinKGamesInARow.py) |
+  | [Find the Maximum Length of a Good Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/) | ❌  | - |
+  | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | ❌  | - |
 </details>
