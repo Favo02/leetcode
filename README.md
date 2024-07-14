@@ -238,3 +238,21 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Find the Maximum Length of a Good Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/) | ❌  | - |
   | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 134</b>
+  </summary>
+
+  - [Biweekly Contest 134](https://leetcode.com/contest/biweekly-contest-134/)
+  - Final standing: **3519<sup>th</sup> / 38868**
+  - Score: **12**, Finish time: **0:27:24**
+  - Rating change: **+22** _(now 1832)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | ✅ 0:14:58  | [3206.AlternatingGroupsI.py](./solved/3206.AlternatingGroupsI.py) |
+  | [Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/) | ✅ 0:09:23  | [3207.MaximumPointsAfterEnemyBattles.py](./solved/3207.MaximumPointsAfterEnemyBattles.py) |
+  | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | ✅ 0:27:24  | [3208.AlternatingGroupsII.py](./solved/3208.AlternatingGroupsII.py) |
+  | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | ❌  | - |
+</details>
