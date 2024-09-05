@@ -256,3 +256,22 @@ When I have some spare time and the problem is noteworthy, I write down simple *
   | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/) | ✅ 0:27:24  | [3208.AlternatingGroupsII.py](./solved/3208.AlternatingGroupsII.py) |
   | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | ❌  | - |
 </details>
+
+<details>
+  <summary>
+    <b>Biweekly Contest 138</b>
+  </summary>
+
+  - [Biweekly Contest 138](https://leetcode.com/contest/biweekly-contest-138/)
+  - Final standing: **650<sup>nd</sup> / 36727**
+  - Score: **14**, Finish time: **0:28:16**
+  - Rating change: **+68** _(now 1901)_
+
+  | Problem | Solved time + Penalties | Solution |
+  |--|--|--|
+  | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | ✅ 0:04:42 _(1x penalties)_ | [3270.FindTheKeyOfTheNumbers.py](./solved/3270.FindTheKeyOfTheNumbers.py) |
+  | [Hash Divided String](https://leetcode.com/problems/hash-divided-string/) | ✅ 0:10:14  | [3271.HashDividedString.py](./solved/3271.HashDividedString.py) |
+  | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | ❌  | - |
+  | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | ✅ 0:23:16  | [3273.MinimumAmountOfDamageDealtToBob.py](./solved/3273.MinimumAmountOfDamageDealtToBob.py) |
+</details>
+
